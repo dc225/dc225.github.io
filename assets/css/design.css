@@ -1,0 +1,35 @@
+body {
+  background-color: #ddd;
+}
+.header-logo {
+  background-image: url("../images/header-logo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 125px;
+  max-height: 125px;
+  height: 125px;
+}
+#logo {
+  width: 135px;
+  height: 60px;
+  margin: 40px 0 0 25px;
+}
+.header {
+  background-image: url("../images/header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 200px;
+  max-height: 200px;
+  height: 200px;
+}
+.content {
+  background-color: #FFF;
+}
+.footer {
+  background-image: url("../images/footer.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 127px;
+  max-height: 127px;
+  height: 127px;
+}
