@@ -22,6 +22,9 @@ body {
   max-height: 200px;
   height: 200px;
 }
+.header-nav {
+  background-color: #FFF;
+}
 .content {
   background-color: #FFF;
 }
