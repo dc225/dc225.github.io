@@ -1,7 +1,9 @@
+ _____   _____ ___  ___  _____
+|  __ \ / ____|__ \|__ \| ____|
+| |  | | |       ) |  ) | |__
+| |  | | |      / /  / /|___ \
+| |__| | |____ / /_ / /_ ___) |
+|_____/ \_____|____|____|____/
+
 /* POC */
 Twitter: https://twitter.com/ynots0ups
-
-/* WEBSITE DEVELOPER */
-Name: Josh Richard
-Site: http://theyconfuse.me/online
-GitHub: https://github.com/c0nfused
