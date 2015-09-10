@@ -1,1 +1,1 @@
-permalink: /:categories/:year/:title.html
+permalink: /blog/:categories/:year/:title.html
