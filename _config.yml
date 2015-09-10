@@ -1,1 +1,2 @@
 permalink: /:categories/:year/:title.html
+paginate_path: "blog/page:num"
