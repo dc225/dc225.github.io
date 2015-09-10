@@ -2,9 +2,10 @@ body {
   background-color: #ddd;
 }
 .header-logo {
-  background-image: url("../images/header-logo.png");
+  background-color: #FFF;
+  /*background-image: url("../images/header-logo.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
   min-height: 125px;
   max-height: 125px;
   height: 125px;
@@ -12,6 +13,7 @@ body {
 #logo {
     height: 100%;
     margin: 0px 0 3px -14px;
+    border-right: 1px #000 dotted;
 }
 .header {
   background-image: url("../images/header.png");
@@ -26,6 +28,7 @@ body {
 }
 .content {
   background-color: #FFF;
+  color: #000;
 }
 .footer {
   background-image: url("../images/footer.png");
