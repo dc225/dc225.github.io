@@ -13,7 +13,6 @@ body {
 #logo {
     height: 100%;
     margin: 0px 0 3px -14px;
-    border-right: 1px #000 dotted;
 }
 .header {
   background-image: url("../images/header.png");
