@@ -10,8 +10,7 @@ body {
   height: 125px;
 }
 #logo {
-    width: 83%;
-    height: 103%;
+    height: 100%;
     margin: 0px 0 3px -14px;
 }
 .header {
