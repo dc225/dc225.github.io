@@ -40,3 +40,6 @@ body {
 .socialmedia {
   margin-top: 8px;
 }
+.socialmedia a {
+  color: #000;
+}
