@@ -1,2 +1,4 @@
 permalink: /blog/:categories/:year/:title.html
 repository: https://github.com/dc225/dc225.github.io
+gems:
+  - jekyll-feed
