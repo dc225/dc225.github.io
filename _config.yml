@@ -3,4 +3,5 @@ repository: https://github.com/dc225/dc225.github.io
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-mentions
 timezone: America/Chicago
