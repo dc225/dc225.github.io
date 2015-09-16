@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+  <head>
+
+    <!--
+
+
+
+DDDDDDDDDDDDD                               ffffffffffffffff                                                      222222222222222     222222222222222    555555555555555555
+D::::::::::::DDD                           f::::::::::::::::f                                                    2:::::::::::::::22  2:::::::::::::::22  5::::::::::::::::5
+D:::::::::::::::DD                        f::::::::::::::::::f                                                   2::::::222222:::::2 2::::::222222:::::2 5::::::::::::::::5
+DDD:::::DDDDD:::::D                       f::::::fffffff:::::f                                                   2222222     2:::::2 2222222     2:::::2 5:::::555555555555
+  D:::::D    D:::::D     eeeeeeeeeeee     f:::::f       ffffffcccccccccccccccc   ooooooooooo   nnnn  nnnnnnnn                2:::::2             2:::::2 5:::::5
+  D:::::D     D:::::D  ee::::::::::::ee   f:::::f           cc:::::::::::::::c oo:::::::::::oo n:::nn::::::::nn              2:::::2             2:::::2 5:::::5
+  D:::::D     D:::::D e::::::eeeee:::::eef:::::::ffffff    c:::::::::::::::::co:::::::::::::::on::::::::::::::nn          2222::::2           2222::::2  5:::::5555555555
+  D:::::D     D:::::De::::::e     e:::::ef::::::::::::f   c:::::::cccccc:::::co:::::ooooo:::::onn:::::::::::::::n    22222::::::22       22222::::::22   5:::::::::::::::5
+  D:::::D     D:::::De:::::::eeeee::::::ef::::::::::::f   c::::::c     ccccccco::::o     o::::o  n:::::nnnn:::::n  22::::::::222       22::::::::222     555555555555:::::5
+  D:::::D     D:::::De:::::::::::::::::e f:::::::ffffff   c:::::c             o::::o     o::::o  n::::n    n::::n 2:::::22222         2:::::22222                    5:::::5
+  D:::::D     D:::::De::::::eeeeeeeeeee   f:::::f         c:::::c             o::::o     o::::o  n::::n    n::::n2:::::2             2:::::2                         5:::::5
+  D:::::D    D:::::D e:::::::e            f:::::f         c::::::c     ccccccco::::o     o::::o  n::::n    n::::n2:::::2             2:::::2             5555555     5:::::5
+DDD:::::DDDDD:::::D  e::::::::e          f:::::::f        c:::::::cccccc:::::co:::::ooooo:::::o  n::::n    n::::n2:::::2       2222222:::::2       2222225::::::55555::::::5
+D:::::::::::::::DD    e::::::::eeeeeeee  f:::::::f         c:::::::::::::::::co:::::::::::::::o  n::::n    n::::n2::::::2222222:::::22::::::2222222:::::2 55:::::::::::::55
+D::::::::::::DDD       ee:::::::::::::e  f:::::::f          cc:::::::::::::::c oo:::::::::::oo   n::::n    n::::n2::::::::::::::::::22::::::::::::::::::2   55:::::::::55
+DDDDDDDDDDDDD            eeeeeeeeeeeeee  fffffffff            cccccccccccccccc   ooooooooooo     nnnnnn    nnnnnn2222222222222222222222222222222222222222     555555555
+
+We <3 You. Join Us.
+
+-->
+    <title>DC225 - DEF CON 225 | Baton Rouge, LA</title>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:image" content="http://defcon225.org/assets/images/dc225-300x300.jpg" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="DEF CON 225 | Baton Rouge, LA" />
+    <meta property="og:description" content="DC225 is composed of students, professionals, and hobbyists that meet/discuss current topics within the fields of physical and informational security." />
+    <meta property="og:site_name" content="Defcon225" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="DEF CON 225 | Baton Rouge, LA"/>
+    <meta name="twitter:site" content="@defcon225"/>
+    <meta name="twitter:domain" content="Defcon225"/>
+
+    <meta description="DC225 is composed of students, professionals, and hobbyists that meet/discuss current topics within the fields of physical and informational security." />
+
+    <meta name="google-site-verification" content="IKpplTJ4hMMwDTHmk1sDPzfv3KXsVtlS198XRE-G2Hk" />
+    <link rel="sitemap" href="/sitemap.xml" type="application/xml" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="./assets/css/design.css" rel="stylesheet" />
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="row header">&nbsp;</div>
+    </div>
+
+    <div class="container">
+      <div class="row header-nav">
+      <div class="pull-right socialmedia">
+          <a href="https://www.facebook.com/DC225" target="_blank">
+            <i class="fa fa-fw fa-2x fa-facebook"></i>
+          </a>
+          <a href="https://twitter.com/defcon225" target="_blank">
+            <i class="fa fa-fw fa-2x fa-twitter"></i>
+          </a>
+      </div>
+      <ul class="nav nav-tabs">
+        <li role="presentation" class="active"><a href="/">Home</a></li>
+        <li role="presentation"><a href="/blog/">Blog</a></li>
+        <li role="presentation"><a href="/contact.html">Contact</a></li>
+      </ul>
+      </div>
+    </div>
+
+    <div class="container">
+    <div class="row content">
+      <div class="col-sm-8 col-md-9">
+        <h1 class="page-title">
+          DC225
+        </h1>
+        <p>
+          Email : defcon225@safe-mail.net<br>
+          GPG<br>
+          -----BEGIN PGP PUBLIC KEY BLOCK-----<br>
+Version: GnuPG v2.0.22 (MingW32)<br>
+<br><br>
+mQINBFX4vvIBEADiW/4q2bIhJDLjOCnrtw4PEIexdH0+xfVGgfGpJQ3lLlYnC4kX<br>
+gGIZO1fj1Z1QWGfr9BIhNmF5k8kKMwtvPqDox/qnEF51girr4BZkmH87wuE4rssj<br>
+8h6K475Vn+UwMp/fqvcGM/c+CtBUPZH+1vKrxvkij+MBF10LIV/XHt+7sn9COOid<br>
+Rykelv9mjB5xjevdxWQXhkQddGy7DPOKnuIU5obrWUd+DMCHUv67L7SCVTTQgifM<br>
+KEcA1fGn/T0xo4SxbSBoFRPxMR8Lo6wrA1ZL0DA9fkxuOs0/WGaxvi/nwi7CEMRs<br>
+Spok8HzTQAk1wLTKDEQkOBHXnI7xmROi1ktOVhpgT6Z0TRu1aDGuclW1nLEFyt0G<br>
+JIXMjC7wUPE9iemtZ0oBdpxXjfTRE/2kviG9q2twDkp6d8pKp6krEZjSWIPiCw9s<br>
+k8CN1XVBkofAb6+kfg0kZb19PDkNol1TopuTCiRttSc+TBUA898lCHuN+6ZQY+5/<br>
+ZlTnp76haxjUeo8VZQFo0DIozNHZhglsGO4kWsb1CCQfQEjlQimE8HTTmNbKhkr5<br>
+Ylq02975/yeE6cDCnho/1A2zkvs7azFqEOlBVFRa9izCvug9KVNm62M3sJTdd1Jt<br>
+k3xUKI/0JYpsAGt66LIZZ6w2hRTgJecBWtLiTY2j797+lnrWy2eBHU7jdQARAQAB<br>
+tCNkZWZjb24yMjUgPGRlZmNvbjIyNUBzYWZlLW1haWwubmV0PokCOQQTAQIAIwUC<br>
+Vfi+8gIbLwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEOWZgQTpYTTC1fwQ<br>
+AJt43K0AAhBy0PiKWhB+Fx+6tBwDcZBIUTqZAXedxPIaNXC//w7m6LGa9vVch2zo<br>
+MTvx5GA2E0KLUjHPEJq72qETZODPawfyvMDroiEd//EpEsoRkJAV2EDsIgwqZI4u<br>
+BRIAATp8rN0dzddEW3EAFN2e2pckz7Gv9WsCeO8fg9lc598OgwFILSd3f4uzbFPc<br>
+J8iafzi2ThcvsRx4AxMhC70hUR08Y0p2bjPhidAs+uV5kZOIKfL+at9xLAyoSIzs<br>
+wlztKGF6eyyJmb/Da+oFxy01/bfRNQy7VFUBKdztJ9cKEkLxXH/TFQUXQ7aJFyJg<br>
+aC8ygLNOMUl1krWF8o3d8cWRkpBbj5831TF19uuD4eocn0OdwODFkiFZkSGAF/EL<br>
+xxkMp8saOa1fUiwjrD+ckpuRySERPkFbBuj+ke/TZ4IKVRBTCRS1Bfqkk2w5r+82<br>
+bCo9LjOoruyUsMJtUyYOTOCCiCCCg/Y7sxkNL3tldX6ja8MI40cGAYe1lOJus2xF<br>
+wJ4mnLGRoPbWb9JQrs/Edb7a+PcQU+nQSyQ43LjarNxnFbMMyEvsYBmc/6rpIAmG<br>
+Tle8KavEdIxdGRjC1ouHvQx37L3vJZ2xZukljEnVjhv/CPsBh83wpHjgw1be0pT0<br>
+ty2ZXuwRLGQEwtvtEcQr9aydjMwSEbCW2QrJBS71ZlUH<br>
+=VPA6<br>
+-----END PGP PUBLIC KEY BLOCK-----
+        </p>
+        <p>
+        
+        </p>
+      </div>
+      <div class="col-sm-4 col-md-3">
+        <p>&nbsp;</p>
+        <p>
+            <a class="btn btn-primary btn-block" target="_blank" href="https://github.com/dc225">
+              <b class="fa fa-fw fa-4x fa-github"></b><br>
+              Fork us on GitHub
+            </a>
+          </p>
+          <p>
+            <a class="btn btn-success btn-block" target="_blank" href="https://groups.google.com/forum/#!forum/defcon225">
+              <b class="fa fa-fw fa-4x fa-comments"></b><br>
+              Group Discussion
+            </a>
+        </p>
+      </div>
+      <div class="col-xs-12">
+        <hr />
+
+      </div>
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading"><h3>
+            <i class="fa fa-calendar-o"></i>
+            Upcoming Events
+          </h3></div>
+          <div class="list-group">
+              <a href="http://www.makerfairebatonrouge.com/" target="_blank" class="list-group-item">
+                <h4>Baton Rouge Mini Maker Faire</h4>
+                <em>September 26th, 2015</em>
+              </a>
+          </div>
+        </div>
+      </div>
+  </div>
+  </div>
+
+    <div class="container">
+    <div class="row footer">
+      <div class="col-xs-12">
+        <div class="text-center">
+          <p>
+            &copy; 2001 - 2015 <a href="/">DC225</a><br><font size="1em">Donate // 1FMfYegMhK9HumLVnCJz8v6QDD5da2dmSc</font>
+          </p>
+          <p>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+              <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+            </a>
+            <br />
+            <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://dc225.github.io" property="cc:attributionName" rel="cc:attributionURL">DC225</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://dc225.github.io" rel="dct:source">https://dc225.github.io</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-67479703-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
