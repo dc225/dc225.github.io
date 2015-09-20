@@ -7,7 +7,7 @@
     dataType: "xml",
     success: function( xml ) {
       $(xml).find("entry").each(function() {
-        console.log($(this).find("title").text());
+        $("#blog_feed").append('<a href="' + $(this).find("link").text() + ' class="list-group-item"><h4>' + $(this).find("title").text() + '</h4></a>');
       });
     }
   });
