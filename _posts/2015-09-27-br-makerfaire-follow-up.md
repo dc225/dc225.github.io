@@ -1,5 +1,5 @@
 ---
-title: "Maker Faire Follow-up!"
+title: "Baton Rouge Mini Maker Faire Follow-up!"
 layout: blog_article
 author: dc225
 version: 1.0.1
