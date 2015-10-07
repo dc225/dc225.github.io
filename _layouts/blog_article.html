@@ -18,12 +18,16 @@ layout: default
   </span>
 </span>
 <div class="post-meta">
-  <span class="post-date">
-    {{ page.date | date_to_string }}
+  <span>
+    <b class="fa fa-fw fa-user"></b>
+    <a href="https://github.com/{{ post.author }}" class="post-author">
+      {{ post.author }}
+    </a>
   </span>
-  <a href="https://github.com/{{ page.author }}" class="post-author">
-    {{ page.author }}
-  </a>
+  <span class="post-date">
+    <b class="fa fa-fw fa-calendar"></b>
+    <em>{{ post.date | date_to_string }}</em>
+  </span>
 </div>
 <div class="post-content">
   {{ content }}

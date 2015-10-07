@@ -4,10 +4,12 @@
   </a>
 </h4>
 <div class="post-meta">
-  <a href="https://github.com/{{ post.author }}" class="post-author">
+  <span>
     <b class="fa fa-fw fa-user"></b>
-    {{ post.author }}
-  </a>
+    <a href="https://github.com/{{ post.author }}" class="post-author">
+      {{ post.author }}
+    </a>
+  </span>
   <span class="post-date">
     <b class="fa fa-fw fa-calendar"></b>
     <em>{{ post.date | date_to_string }}</em>
