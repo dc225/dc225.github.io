@@ -21,12 +21,12 @@ layout: default
   <span>
     <b class="fa fa-fw fa-user"></b>
     <a href="https://github.com/{{ post.author }}" class="post-author">
-      {{ post.author }}
+      {{ page.author }}
     </a>
   </span>
   <span class="post-date">
     <b class="fa fa-fw fa-calendar"></b>
-    <em>{{ post.date | date_to_string }}</em>
+    <em>{{ page.date | date_to_string }}</em>
   </span>
 </div>
 <div class="post-content">
