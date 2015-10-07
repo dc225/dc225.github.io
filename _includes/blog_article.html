@@ -5,12 +5,15 @@
 </h4>
 <div class="post-meta">
   <a href="https://github.com/{{ post.author }}" class="post-author">
+    <b class="fa fa-fw fa-user"></b>
     {{ post.author }}
   </a>
   <span class="post-date">
-    <em></em>{{ post.date | date_to_string }}</em>
+    <b class="fa fa-fw fa-calendar"></b>
+    <em>{{ post.date | date_to_string }}</em>
   </span>
   <span class="post-comment-count">
+    <b class="fa fa-fw fa-commenting"></b>
     <a href="{{ post.url }}#disqus_thread">Comments</a>
   </span>
 </div>
