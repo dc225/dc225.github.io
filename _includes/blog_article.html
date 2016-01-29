@@ -4,12 +4,6 @@
   </a>
 </h4>
 <div class="post-meta">
-  <span>
-    <b class="fa fa-fw fa-user"></b>
-    <a href="https://github.com/{{ post.author }}" class="post-author">
-      {{ post.author }}
-    </a>
-  </span>
   <span class="post-date">
     <b class="fa fa-fw fa-calendar"></b>
     <em>{{ post.date | date_to_string }}</em>
@@ -18,8 +12,5 @@
     <b class="fa fa-fw fa-commenting"></b>
     <a href="{{ post.url }}#disqus_thread">Comments</a>
   </span>
-</div>
-<div class="post-content">
-  {{ post.content }}
 </div>
 <hr />
