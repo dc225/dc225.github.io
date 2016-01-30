@@ -21,6 +21,7 @@ body {
   min-height: 205px;
   max-height: 205px;
   height: 205px;
+  position: relative;
 }
 .header-nav {
   background-color: #FFF;
