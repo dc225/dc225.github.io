@@ -41,4 +41,4 @@ Look forward to our Q2:2016 meetup announcement and date as the time approaches.
 ### Subscribe & Follow
 
 If you would like to know more about when our next meetups will be,
-feel free to join the [mailing list & group discussion](https://groups.google.com/forum/#!forum/defcon225), [follow DC225 on Facebook](https://www.facebook.com/DC225), or follow [@defcon225 on Twitter](https://twitter.com/defcon225)
+feel free to join the [mailing list & group discussion](https://groups.google.com/forum/#!forum/defcon225), [Like DC225 on Facebook](https://www.facebook.com/DC225), or Follow [@defcon225 on Twitter](https://twitter.com/defcon225)
