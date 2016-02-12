@@ -2,7 +2,7 @@
 title: "Feb 2016 Meetup Followup"
 layout: blog_article
 author: dc225
-version: 1.0.1
+version: 1.0.2
 ---
 
 ### Meetup Summary
