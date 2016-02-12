@@ -14,7 +14,7 @@ Edward Atebara, a lawyer from Baton Rouge, was the guest speaker and offered gre
 There were a few challenges and puzzles meant to help grow, perfect, and demonstrate your skills.
 
 Here was the crypto challenge if you would like to try it yourself. Good luck!
-	
+
 	  TRY TO SOLVE THIS ONE.
 	  LR4DGMK4PBBTAXDYIJBFY6
 	  BUHFOHQMBQLR4DAMC4PAYD
@@ -35,8 +35,10 @@ Here was the crypto challenge if you would like to try it yourself. Good luck!
 
 ### Future Scheduling
 
-This meetup was at a new venue, but we do hope to continue working with the same venue to have even more meetup success in the future.
+DC225 will be holding quarterly meetings until announced otherwise.
+Look forward to our Q2:2016 meetup announcement and date as the time approaches.
 
 ### Subscribe & Follow
 
-If you would like to know more about when our next meetups will be, feel free to join the [mailing list & group discussion](https://groups.google.com/forum/#!forum/defcon225), [follow DC225 on Facebook](https://www.facebook.com/DC225), or follow [@defcon225 on Twitter](https://twitter.com/defcon225)
+If you would like to know more about when our next meetups will be,
+feel free to join the [mailing list & group discussion](https://groups.google.com/forum/#!forum/defcon225), [follow DC225 on Facebook](https://www.facebook.com/DC225), or follow [@defcon225 on Twitter](https://twitter.com/defcon225)
