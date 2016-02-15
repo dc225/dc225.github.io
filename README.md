@@ -2,4 +2,4 @@
 
 Welcome to the website GitHub for the **DEF CON 225** group.
 
-[View the DC225 website](https://dc225.github.io)
+[Visit the DC225 website](https://dc225.github.io)
