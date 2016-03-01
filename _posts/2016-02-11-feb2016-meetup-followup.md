@@ -9,7 +9,7 @@ version: 1.0.2
 
 **DC225** had a **meetup** on **February 10, 2016** from **7p-8pm** at [LSU Voodoo BBQ Bar & Grill](https://www.facebook.com/LSU-Voodoo-BBQ-Bar-Grill-115941018447781/) in Baton Rouge, Louisiana.
 
-Edward Atebara, a lawyer from Baton Rouge, was the guest speaker and offered great legal advice and information on certain topics discussed during the meetup.
+[Edward Atebara](http://EdAtLaw.com), a lawyer from Baton Rouge, was the guest speaker and offered great legal advice and information on certain topics involving DWI/DUI and proper proceedures to follow when interacting with law enforcement during the meetup.
 
 There were a few challenges and puzzles meant to help grow, perfect, and demonstrate your skills.
 
