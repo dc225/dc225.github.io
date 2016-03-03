@@ -1,7 +1,7 @@
 (function($){
 	var sponsors = {
 		mediumRectangle: [
-			['https://s3-us-west-2.amazonaws.com/63306e6675736564/sponsors/unixstickers-300x250.jpg', 'http://unixstickers.refr.cc/4W8JFQT', '$5 coupon at Unixstickers']
+			
 		]
 	}, r;
 	
