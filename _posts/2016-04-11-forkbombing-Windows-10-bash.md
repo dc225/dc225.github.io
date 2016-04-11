@@ -11,7 +11,7 @@ version: 1.0.1
 
 We ran it twice; once with just `:(){ :|: & };:`, once with `for i in $(seq 0 1000); do :(){ :|: & };:; done`
 
-#### Results
+### Results
 
 The first one made the screen freeze up for a few seconds and spike the CPU, but the second one shut off the laptop screen and hard locked.
 
