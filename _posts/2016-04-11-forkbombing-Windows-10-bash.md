@@ -7,7 +7,7 @@ version: 1.0.1
 
 [cry0](https://nolacon.com/speaker/cry0/) decided to play around with Bash on Windows 10 and forkbombs.
 
-**Command ran:** for i in $(seq 0 1000); do :(){ :|: & };:; done
+**Command ran:** :(){ :|: & };:
 
 ####Result:
 
