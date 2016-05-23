@@ -11,7 +11,7 @@ version: 1.0.1
 
 DC225 members [cry0](https://nolacon.com/speaker/cry0/) and [s0ups](https://nolacon.com/speaker/s0ups/) presented a talk titled _**You Pass Butter: Next Level Security Monitoring Through Proactivity**_
 
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/GLsF9zA8sHE?start=270" frameborder="0" allowfullscreen></iframe-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GLsF9zA8sHE?start=270" frameborder="0" allowfullscreen></iframe>
 
 Detecting advanced threats to your organization before you file that breach report requires innovative thinking, in-depth environmental knowledge and the implementation of proactive monitoring capabilities. Let’s have a discussion on what tools and techniques could be leveraged to turn network monitoring operations into pre-crime detection mechanisms that would make Tom Cruise from Minority Report blush! We will cover some tactics that have had real world success, brainstorm potential options you can implement to stay one step ahead of the adversaries, learn to embrace the attacker mindset on a daily basis and share a drink…or several.
 
