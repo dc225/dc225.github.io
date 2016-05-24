@@ -4,3 +4,4 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
 timezone: America/Chicago
+permalink: /404.html
