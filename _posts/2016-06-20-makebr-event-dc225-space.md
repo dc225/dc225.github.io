@@ -1,5 +1,5 @@
 ---
-title: "make.br event and DC225 space!"
+title: "make.br event and DC225 space"
 layout: blog_article
 author: dc225
 version: 1.0.1
