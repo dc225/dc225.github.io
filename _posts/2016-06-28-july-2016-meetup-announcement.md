@@ -1,5 +1,5 @@
 ---
-title: "June 2016 Meetup Announcement"
+title: "July 2016 Meetup Announcement"
 layout: blog_article
 author: dc225
 version: 1.0.1
@@ -9,7 +9,7 @@ version: 1.0.1
 {
   "@context" : "http://schema.org",
   "@type" : "Event",
-  "name" : "June 2016 Meetup Announcement",
+  "name" : "July 2016 Meetup Announcement",
   "startDate" : "2016-07-13",
   "location" : {
     "@type" : "Place",
@@ -20,8 +20,8 @@ version: 1.0.1
       "addressRegion" : "Louisiana"
     }
   },
-  "description" : "DC225 has their 2016Q2 Meetup coming up",
-  "url" : "http://defcon225.org/blog/2016/q2-meetup.html"
+  "description" : "DC225 announces their July 2016 Meetup",
+  "url" : "http://defcon225.org/blog/2016/july-2016-meetup-announcement.html"
 }
 </script>
 
