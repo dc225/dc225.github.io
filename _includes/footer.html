@@ -37,5 +37,15 @@
   <script src="/assets/js/stats.js"></script>
   <script src="/assets/js/sponsor.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+
+  <script>
+  (function($){
+    $("img.lazy").lazyload({
+      effect : "fadeIn"
+    });
+  }(jQuery));
+  </script>
+
 </body>
 </html>
