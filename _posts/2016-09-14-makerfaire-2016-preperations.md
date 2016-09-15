@@ -26,3 +26,7 @@ Register to attend the Maker Faire and find more information at <https://www.eve
 <a href="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/ph1x04.jpg">
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/ph1x04.jpg" class="lazy img-thumbnail" border="0" />
 </a>
+
+<a href="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/ph1x05.jpg">
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/ph1x05.jpg" class="lazy img-thumbnail" border="0" />
+</a>
