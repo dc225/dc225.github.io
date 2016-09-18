@@ -33,15 +33,19 @@ We <3 You. Join Us.
     <meta property="og:image" content="https://s3-us-west-2.amazonaws.com/63306e6675736564/assets/images/dc225-300x300.jpg" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="DEF CON 225" />
     <meta property="og:title" content="{{ page.title }} - DEF CON 225 | Baton Rouge, LA" />
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta description="{{ page.description }}" />
+    {% else %}
     <meta property="og:description" content="DC225 is composed of students, professionals, and hobbyists that meet/discuss current topics within the fields of physical and informational security." />
-    <meta property="og:site_name" content="Defcon225" />
+    <meta description="DC225 is composed of students, professionals, and hobbyists that meet/discuss current topics within the fields of physical and informational security." />
+    {% endif %}
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:title" content="DEF CON 225 | Baton Rouge, LA"/>
     <meta name="twitter:site" content="@defcon225"/>
     <meta name="twitter:domain" content="Defcon225"/>
-
-    <meta description="DC225 is composed of students, professionals, and hobbyists that meet/discuss current topics within the fields of physical and informational security." />
 
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" />
