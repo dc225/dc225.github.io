@@ -32,6 +32,17 @@ The first abuse complaint was an auto generated complaint from a box with fail2b
 
 The second abuse complaint was a claimed copyright infringement notice from company, IP-Echelon, an anti-piracy firm who works with copyright holders to protect their data online. Looks like this law firm has a script setup that scans torrent links they own and then subpoena/contact every single IP that downloads movies belonging to their client (Paramount Pictures Corporation). In this case it looks like it was a Shrek the Third bluray torrent. <a href="https://www.torproject.org/eff/tor-dmca-response.html.en">Here</a> is a good template to use for DMCA complaints like this.<br>
 
+>Evidentiary Information: <br>
+>Protocol: BITTORRENT <br>
+>Infringed Work: Shrek the Third <br>
+>Infringing FileName: Shrek the Third (BDrip 1080p ENG-ITA-GER-SPA-TUR) x264 bluray (2007) <br>
+>Infringing FileSize: 4736643065 <br>
+>Infringer's IP Address: 46.101.98.208 <br>
+>Infringer's Port: 45697 <br>
+>Initial Infringement Timestamp: 2016-09-01T09:24:12Z 
+<br>
+<img src="http://i.imgur.com/sAl4pBJ.png" width="25%">
+
 IMO, the best way to deal with abuse complaints generated from your Tor exit node is to respond and say you will add their IP ranges to you ExitPolicy reject rules.  This let’s your ISP know you’re down to be pro-active about abuse as well as let’s the complainer know you want to help stop the abuse from happening.<br>
 
 So as you can see, you will have a lot less headaches and worry if you setup an advanced tor ExitPolicy to avoid a lot of these drama llamas. You can also <a href="https://www.upcloud.com/support/installing-fail2ban-on-debian-8-0/">setup fail2ban</a> to harden your server and prevent any hacking/brute force ssh attempts on it.<br>
