@@ -55,4 +55,4 @@ Tor Null<br>
 
 Donate Bitcoin to keep our <a href="http://defcon225.org">DC225</a> tor exit node alive and maintaned : 1Knbz4isVBZiCQxGHnYii26HkXcGwJTeYP<br> <3
 
-<img src="http://i.imgur.com/4cIaePU.png" width="50%">
+<img src="http://i.imgur.com/flndXR0.png" width="50%">
