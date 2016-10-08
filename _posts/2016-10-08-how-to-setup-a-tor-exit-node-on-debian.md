@@ -53,6 +53,9 @@ Fail2ban commands and reporting<br>
 Tor Null<br>
 <a href="https://tornull.org/">Tor Null Advisory BL</a>
 
+Tor subreddit<br>
+<a href="https://www.reddit.com/r/tor">/r/tor</a>
+
 Donate Bitcoin to keep our <a href="http://defcon225.org">DC225</a> tor exit node alive and maintaned : 1Knbz4isVBZiCQxGHnYii26HkXcGwJTeYP<br> <3
 
 <img src="http://i.imgur.com/flndXR0.png" width="50%">
