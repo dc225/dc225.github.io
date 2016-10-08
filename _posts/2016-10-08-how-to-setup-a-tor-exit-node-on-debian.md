@@ -36,7 +36,7 @@ IMO, the best way to deal with abuse complaints generated from your Tor exit nod
 
 So as you can see, you will have a lot less headaches and worry if you setup an advanced tor ExitPolicy to avoid a lot of these drama llamas. You can also <a href="https://www.upcloud.com/support/installing-fail2ban-on-debian-8-0/">setup fail2ban</a> to harden your server and prevent any hacking/brute force ssh attempts on it.<br>
 
-To make people hella sure our exit node IP is not trying to be malicous, had to throw up a clear message, <a href="http://46.101.98.208/">http://46.101.98.208/</a>. All you have to do is setup apache and then edit the index.html file located in var/www/html.
+To make people hella sure our exit node IP is not trying to be malicous, had to throw up a clear message, <a href="http://46.101.98.208/">http://46.101.98.208/</a>. All you have to do is setup apache and then edit the index.html file located in /var/www/html.
 
 Thanks for wanting to learn more about setting up a tor exit node and hopefully this was at least 1% helpful for you.
 
