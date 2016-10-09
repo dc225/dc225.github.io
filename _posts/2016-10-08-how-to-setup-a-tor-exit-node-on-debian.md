@@ -10,14 +10,13 @@ version: 1.0.1
 
 <h2>Log into box as root and do the following to setup tor</h2>
 (the box this was installed on was running Debian 8.5 x64)<br>
-1. "apt-get install tor" then "y" to confirm<br>
-2. "apt-get install ntp" then "y" to confirm<br>
-3. "nano /etc/tor/torrc" to edit your configuration file<br>
+1. `apt-get install -y tor ntp`
+3. `nano /etc/tor/torrc` to edit your configuration file<br>
 4. uncomment the "ORPort" setting line<br>
 5. change the "ExitPolicy" lines as required to be relative<br>
 6. uncomment and set the "ContactInfo" line to whatever you want your TorRelay to be named (publicly viewable)<br>
 7. save file and exit<br>
-8. "service tor reload" to restart the service and get the new edits working<br>
+8. `service tor reload` to restart the service and get the new edits working<br>
 
 We highly encourage using an advanced or a more modified version of the torrc configuration file. This helps out the Tor community by preventing known malicious botnet traffic (ransomware, crimeware and malware) from using your tor relay or exit node. We recommend using the ‘Crimeware and Ransomware Prevention - ExitPolicy’ reject list from <a href="https://tornull.org/">tornull</a> + using the <a href="https://trac.torproject.org/projects/tor/wiki/doc/ReducedExitPolicy">Reduced Exit Policy</a> from Tor project. Configuring an advanced Exit Policy will help cut down on abuse complaints from your ISP, server terminations, and prevent a decent amount of malicious activity from using your server.
 
@@ -39,7 +38,7 @@ The second abuse complaint was a claimed copyright infringement notice from comp
 >Infringing FileSize: 4736643065 <br>
 >Infringer's IP Address: 46.101.98.208 <br>
 >Infringer's Port: 45697 <br>
->Initial Infringement Timestamp: 2016-09-01T09:24:12Z 
+>Initial Infringement Timestamp: 2016-09-01T09:24:12Z
 <br>
 <img src="http://i.imgur.com/sAl4pBJ.png" width="25%">
 
