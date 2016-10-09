@@ -10,7 +10,7 @@ version: 1.0.1
 
 <h2>Log into box as root and do the following to setup tor</h2>
 (the box this was installed on was running Debian 8.5 x64)<br>
-1. `apt-get install -y tor ntp`
+1. `apt-get install -y tor ntp`<br>
 3. `nano /etc/tor/torrc` to edit your configuration file<br>
 4. uncomment the "ORPort" setting line<br>
 5. change the "ExitPolicy" lines as required to be relative<br>
