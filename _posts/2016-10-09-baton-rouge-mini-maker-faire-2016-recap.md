@@ -15,9 +15,11 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
 ### Featured DEF CON 225 Presentations
   - A pay phone making VoIP phone calls over Wi-Fi
   - A Wi-Fi controllable ROOMBA
+    - [Fork on Github](https://github.com/c0nfus3d/chibi)
   - An application that mutilates images (and sometimes non-images) in predictable (and sometimes unpredictable) ways
     - [A Vernacular of file formats](https://dl.dropboxusercontent.com/u/9054743/hifi%20Rosa%20Menkman%20-%20A%20Vernacular%20of%20File%20Formats.pdf)
   - Lock picking 101
+    - [The Open Organization Of Lockpickers](http://toool.us/)
   - Great informational flyers provided by the [Electronic Frontier Foundation](https://www.eff.org).
 
 ---
