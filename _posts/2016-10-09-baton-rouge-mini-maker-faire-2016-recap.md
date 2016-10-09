@@ -3,6 +3,7 @@ title: "Baton Rouge Mini Maker Faire 2016 Recap"
 layout: blog_article
 author: dc225
 version: 1.0.1
+description: The annual Baton Rouge Mini Maker Faire was this past Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library.
 ---
 
 The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) was this past Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library.
