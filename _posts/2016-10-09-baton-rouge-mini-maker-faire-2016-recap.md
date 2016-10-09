@@ -18,6 +18,8 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
   - Lock picking 101
   - Great informational flyers provided by the [Electronic Frontier Foundation](https://www.eff.org).
 
+---
+
 <a href="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/baton-rouge-mini-maker-faire-2016/sign.jpg">
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/baton-rouge-mini-maker-faire-2016/sign.jpg" class="lazy img-thumbnail" border="0" />
 </a>
@@ -25,6 +27,8 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
 <a href="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/baton-rouge-mini-maker-faire-2016/general-rascality.jpg">
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/baton-rouge-mini-maker-faire-2016/general-rascality.jpg" class="lazy img-thumbnail" border="0" />
 </a>
+
+---
 
 Along with the usual, awesome DEF CON 225 and [make.br](http://makebr.com/) presentations, this year featured Mythbusters’ Jamie Hyneman with a Question & Answer presentation as well as giveaways by [EA Baton Rouge](https://www.facebook.com/EABatonRouge/) and [Acadian Robotics](https://www.facebook.com/AcadianRobotics/).
 
