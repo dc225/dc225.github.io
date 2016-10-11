@@ -18,6 +18,8 @@ version: 1.0.1
 6. save file and exit<br>
 7. `service tor reload` to restart the service and get the new edits working<br>
 
+<a href="http://46.101.98.208/torrc">Copy of our current torrc file</a>
+
 We highly encourage using an advanced or a more modified version of the torrc configuration file. This helps out the Tor community by preventing known malicious botnet traffic (ransomware, crimeware and malware) from using your tor relay or exit node. We recommend using the ‘Crimeware and Ransomware Prevention - ExitPolicy’ reject list from <a href="https://tornull.org/">tornull</a> + using the <a href="https://trac.torproject.org/projects/tor/wiki/doc/ReducedExitPolicy">Reduced Exit Policy</a> from Tor project. Configuring an advanced Exit Policy will help cut down on abuse complaints from your ISP, server terminations, and prevent a decent amount of malicious activity from using your server.
 
 <h2>What to do if you get an abuse complaint</h2>
