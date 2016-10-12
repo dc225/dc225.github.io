@@ -59,7 +59,7 @@ Thanks for wanting to learn more about setting up a tor exit node and hopefully 
 
 <h3>Additional reading</h3>
 
-Stats on our current exit node
+Stats on our current exit node<br>
 <a href="https://atlas.torproject.org/#details/D33E1E8F1B9FF03FD2683CE75AA760F75CA30363">https://atlas.torproject.org/#details/D33E1E8F1B9FF03FD2683CE75AA760F75CA30363</a><br>
 
 Running a Tor Exit Node for fun and e-mails<br>
