@@ -22,6 +22,11 @@ version: 1.0.1
 
 We highly encourage using an advanced or a more modified version of the torrc configuration file. This helps out the Tor community by preventing known malicious botnet traffic (ransomware, crimeware and malware) from using your tor relay or exit node. We recommend using the ‘Crimeware and Ransomware Prevention - ExitPolicy’ reject list from <a href="https://tornull.org/">tornull</a> + using the <a href="https://trac.torproject.org/projects/tor/wiki/doc/ReducedExitPolicy">Reduced Exit Policy</a> from Tor project. Configuring an advanced Exit Policy will help cut down on abuse complaints from your ISP, server terminations, and prevent a decent amount of malicious activity from using your server.
 
+<h2>Where to host a tor exit node</h2>
+We're using DigitalOcean for this. A $10/m droplet using Debian 8 x64, 1 GB Memory / 30 GB Disk / 2 TB transfer and hosted at the DO Frankfurt, Germany location. DO is sorta weird when it comes to bandwidth usage. I submitted a support ticket asking about how to monitor overall BW usage at the DO backend level and they replied with basically "you cant and we wont charge you for exceeding the 2TB bw limit"..hrm. I certainly used way over 2TB of bw in October but my bill was only $10. So, ya, that's really good. A lot of others recommend using OVH as well for tor exit nodes.
+
+<img src="http://i.imgur.com/2cZZC4C.png" width="75%">
+
 <h2>What to do if you get an abuse complaint</h2>
 If you run the default and stock ExitPolicy while running an exit node, you most likely get abuse complaints within ~72 hours.
 
