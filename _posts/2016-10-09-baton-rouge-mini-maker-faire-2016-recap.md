@@ -24,7 +24,7 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
 
 ### Lock Picking Resources
 > If you want to get a solid, basic set of picks to learn on, I'd recommend the SouthOrd MPXS-08 set. Good for beginners, but feels bland after a few months.
-<https://www.lockpickshop.com/MPXS-08.html>
+> <https://www.lockpickshop.com/MPXS-08.html>
 
 > If you want a great set that gets you acquainted with many of the types of picks that exist while improving upon the MPXS-08 set, I'd recommend the SouthOrd MPXS-17 set. Not the MPXS-11, since that one doesn't have a city rake. Lots of variety—makes you get a feel of what pick is best for what job.
 > <https://www.hackerstickers.com/product/hardware-lockpick-17pcset/>
@@ -34,6 +34,8 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
 
 
 > As far as locks go, I mostly practice on padlocks, and I just pick up most of mine at Walmart, Lowe's, Home Depot, or from family and friends that don't use their padlocks. If you're looking for actual practice locks though, I'd throw in my recommendation for Sparrows again.
+
+---
 
 Along with the usual, awesome DEF CON 225 and [make.br](http://makebr.com/) presentations, this year featured Mythbusters’ Jamie Hyneman with a Question & Answer presentation as well as giveaways by [EA Baton Rouge](https://www.facebook.com/EABatonRouge/) and [Acadian Robotics](https://www.facebook.com/AcadianRobotics/).
 
