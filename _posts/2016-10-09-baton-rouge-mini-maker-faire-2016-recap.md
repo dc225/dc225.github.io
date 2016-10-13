@@ -2,7 +2,7 @@
 title: "Baton Rouge Mini Maker Faire 2016 Recap"
 layout: blog_article
 author: dc225
-version: 1.0.1
+version: 1.1.1
 description: The annual Baton Rouge Mini Maker Faire was this past Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library.
 ---
 
@@ -27,10 +27,10 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
 <https://www.lockpickshop.com/MPXS-08.html>
 
 > If you want a great set that gets you acquainted with many of the types of picks that exist while improving upon the MPXS-08 set, I'd recommend the SouthOrd MPXS-17 set. Not the MPXS-11, since that one doesn't have a city rake. Lots of variety—makes you get a feel of what pick is best for what job.
-<https://www.hackerstickers.com/product/hardware-lockpick-17pcset/>
+> <https://www.hackerstickers.com/product/hardware-lockpick-17pcset/>
 
 > If you want a fantastic set that transforms your picking approach from a hobby to an art at the expense of a pretty decent learning curve, then I'd recommend the Sparrows Tuxedo set. Slim, sleek, and transforms your picking mindset, but requires tuning and adjustments to your picking style.
-<http://www.sparrowslockpicks.com/product_p/tux1.htm>
+> <http://www.sparrowslockpicks.com/product_p/tux1.htm>
 
 
 > As far as locks go, I mostly practice on padlocks, and I just pick up most of mine at Walmart, Lowe's, Home Depot, or from family and friends that don't use their padlocks. If you're looking for actual practice locks though, I'd throw in my recommendation for Sparrows again.
