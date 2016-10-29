@@ -66,7 +66,10 @@ Running a Tor Exit Node for fun and e-mails<br>
 <a href="https://blog.daknob.net/running-a-tor-exit-node-for-fun-and-e-mails/" target="_blank">https://blog.daknob.net/running-a-tor-exit-node-for-fun-and-e-mails/</a><br>
 
 Fail2ban commands and reporting<br>
-<a href="http://www.the-art-of-web.com/system/fail2ban-log/ target="_blank"">http://www.the-art-of-web.com/system/fail2ban-log/</a><br>
+<a href="http://www.the-art-of-web.com/system/fail2ban-log/" target="_blank">http://www.the-art-of-web.com/system/fail2ban-log/</a><br>
+
+TorWorld<br>
+<a  href="http://torworld.org" target="_blank">TorWorld FastExit and FastRelay</a><br> Easy setup of a Tor Exit node or Tor Relay with responibly ExitPolicy pre-made to cut down on abuse.
 
 Tor Null<br>
 <a href="https://tornull.org/" target="_blank">Tor Null Advisory BL</a>
