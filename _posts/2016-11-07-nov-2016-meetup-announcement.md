@@ -2,7 +2,7 @@
 title: "Nov 2016 Meetup Announcement"
 layout: blog_article
 author: dc225
-version: 1.0.1
+version: 1.1.1
 description: DC225 has a meetup scheduled for Nov 10 2016
 ---
 
@@ -26,7 +26,7 @@ description: DC225 has a meetup scheduled for Nov 10 2016
 }
 </script>
 
-DEF CON 225 announces their next [meetup scheduled Thursday, November 11, 2016 at 7 PM](https://www.facebook.com/events/532322283621160/)
+DEF CON 225 announces their next [meetup scheduled Thursday, November 10, 2016 at 7 PM](https://www.facebook.com/events/532322283621160/)
 
 Hangout at the space courtesy of [make.br](http://www.makebr.com)
 
