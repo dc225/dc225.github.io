@@ -3,6 +3,7 @@ title: "Nov 2016 Meetup Announcement"
 layout: blog_article
 author: dc225
 version: 1.0.1
+description: DC225 has a meetup scheduled for Nov 10 2016
 ---
 
 <script type="application/ld+json">
