@@ -33,7 +33,7 @@ Hangout at the space courtesy of [make.br](http://www.makebr.com)
 ### Talks
 
 #### Shady and Unethical SEOing ~ willse0forbtc
-- Using SEO tactics for pure evil
+- Using SEO tactics for pure evil and to gain an edge over your competitors
 
 #### Arduino Powered Door Alarm ~ c0nfus3d
 - Receive SMS alerts when your door is opened
