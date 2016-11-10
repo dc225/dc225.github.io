@@ -32,7 +32,7 @@ Hangout at the space courtesy of [make.br](http://www.makebr.com)
 
 ### Talks
 
-#### Evil SEO ~ willse0forbtc
+#### Shady and Unethical SEOing ~ willse0forbtc
 - Using SEO tactics for pure evil
 
 #### Arduino Powered Door Alarm ~ c0nfus3d
