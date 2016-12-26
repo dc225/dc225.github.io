@@ -51,7 +51,7 @@ Talk to us: dc225@sigaint.org
 
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="/assets/css/design.css?ver=2016" rel="stylesheet" />
+    <link href="./assets/css/design.css?ver=2017-1" rel="stylesheet" />
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -59,13 +59,25 @@ Talk to us: dc225@sigaint.org
     <![endif]-->
   </head>
   <body>
-    <div class="container">
-      <div class="row header">
-        <a target="_blank" href="https://github.com/dc225"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67" alt="Fork me on GitHub" /></a>
-      </div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="hidden-xs hidden-sm col-md-1 side left">
+      &nbsp;
     </div>
-
-    <div class="container">
+    <div class="col-md-10">
+      <div class="row logo">
+        <a target="_blank" href="https://github.com/dc225">
+          <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67" alt="Fork me on GitHub" />
+        </a>
+        <a href="/">
+          <canvas id="canvas"></canvas>
+          <noscript>
+            <img src="assets/images/logo-white.png" border="0" />
+          </noscript>
+        </a>
+      </div>
+      <div class="row header">
+      </div>
       <div class="row header-nav">
         <div class="pull-right hidden-xs socialmedia">
             <a href="https://www.facebook.com/DC225" target="_blank">
@@ -81,12 +93,10 @@ Talk to us: dc225@sigaint.org
           <li role="presentation"><a href="/contact.html">Contact</a></li>
         </ul>
       </div>
-    </div>
-
-    <div class="container">
       <div class="row content">
-        <div class="col-sm-8">
-          <h1 class="page-title">
+        <div class="col-xs-12">
+        <div class="col-xs-12">
+          <h1 class="page-title" id="page-title">
             DC225
           </h1>
           <p>
@@ -101,21 +111,6 @@ Talk to us: dc225@sigaint.org
             current <strong>trends, topics, and research</strong> in the fields of
             <strong>computer security, digital forensics, and related</strong>.
           </p>
-        </div>
-        <div class="col-sm-4">
-          <p>&nbsp;</p>
-          <div class="panel panel-primary">
-            <div class="panel-heading"><h3>
-              <i class="fa fa-fw fa-calendar-o" aria-hidden="true"></i>
-              Upcoming Events
-            </h3></div>
-            <div class="list-group">
-              <a href="#" class="list-group-item">
-                 <h4>No Results Found.</h4>
-                 <i class="fa fa-fw fa-calendar-plus-o" aria-hidden="true"></i> <em>Please check back at a later time!</em>
-              </a>
-            </div>
-          </div>
         </div>
         <div class="col-xs-12">
           <hr />
@@ -132,7 +127,27 @@ Talk to us: dc225@sigaint.org
           </p>
         </div>
         <div class="col-sm-8 col-md-9">
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
+            <div class="panel-heading"><h3>
+              <i class="fa fa-fw fa-calendar-o" aria-hidden="true"></i>
+              Upcoming Events
+            </h3></div>
+            <div class="list-group">
+              <a href="#" class="list-group-item">
+                 <h4>No Results Found.</h4>
+                 <i class="fa fa-fw fa-calendar-plus-o" aria-hidden="true"></i> <em>Please check back at a later time!</em>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12">
+          <hr />
+          <div class="col-md-6">
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/defcon225" data-widget-id="662087827870474240">Tweets by @defcon225</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+          <div class="col-md-6">
+            <div class="panel panel-default">
             <div class="panel-heading"><h3>
               <i class="fa fa-fw fa-rss-square"></i>
               Blog Feed
@@ -140,24 +155,13 @@ Talk to us: dc225@sigaint.org
             <div class="list-group" id="blog_feed">
             </div>
           </div>
-        </div>
-        <div class="col-xs-12">
-          <hr />
-
-          <div class="col-md-5">
-            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/defcon225" data-widget-id="662087827870474240">Tweets by @defcon225</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-          </div>
-          <div class="col-md-7">
-            <img src="./assets/images/mrdc225.jpg" class="img-responsive" alt="" />
           </div>
         </div>
-
         <div class="col-xs-12">
           <hr />
         </div>
 
-<div class="row">
+      <div class="row footer">
         <div class="col-md-offset-1 col-md-3">
           <h3>
             <i class="fa fa-fw fa-home" aria-hidden="true"></i>
@@ -171,12 +175,13 @@ Talk to us: dc225@sigaint.org
         </div>
 
         <div class="col-md-4">
-          <a href="http://www.makebr.com/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="make.br - Makerspace & Maker Movement in Baton Rouge" border="0" height="34" src="/assets/images/icons/makebr.png" style="margin: 0 2px" title="make.br - Makerspace & Maker Movement in Baton Rouge" width="80" /></a>
-          <a href="http://hackersforcharity.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Hackers For Charity (HFC)" border="0" height="73" src="/assets/images/icons/hackers-for-charity.gif" style="margin: 0 2px" title="Hackers For Charity (HFC)" width="73" /></a>
-	        <a href="https://www.internetdefenseleague.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Member of The Internet Defense League" border="0" height="60" src="/assets/images/icons/internet-defense-league.png" style="margin: 0 2px" title="Member of The Internet Defense League" width="75" /></a>
-	        <a href="https://studio.code.org/hoc/1?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="HOUR of CODE Challenge" border="0" height="73" src="/assets/images/icons/code-org.png" style="margin: 0 2px" title="HOUR of CODE Challenge" width="73" /></a>
-	        <a href="https://www.eff.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Electronic Frontier Foundation (EFF)" border="0" height="73" src="/assets/images/icons/eff.png" style="margin: 0 2px" title="Electronic Frontier Foundation (EFF)" width="73" /></a>
-          <a href="https://defcongroups.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="DEF CON Groups" border="0" height="80" src="/assets/images/icons/defcon-groups.jpg" style="margin: 0 2px" title="DEF CON Groups" width="80" /></a>
+          <a href="http://www.makebr.com/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="make.br - Makerspace & Maker Movement in Baton Rouge" border="0" height="34" src="./assets/images/icons/makebr.png" style="margin: 0 2px" title="make.br - Makerspace & Maker Movement in Baton Rouge" width="80" /></a>
+          <a href="http://hackersforcharity.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Hackers For Charity (HFC)" border="0" height="73" src="./assets/images/icons/hackers-for-charity.gif" style="margin: 0 2px" title="Hackers For Charity (HFC)" width="73" /></a>
+	        <a href="https://www.internetdefenseleague.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Member of The Internet Defense League" border="0" height="60" src="./assets/images/icons/internet-defense-league.png" style="margin: 0 2px" title="Member of The Internet Defense League" width="75" /></a>
+	        <a href="https://studio.code.org/hoc/1?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="HOUR of CODE Challenge" border="0" height="73" src="./assets/images/icons/code-org.png" style="margin: 0 2px" title="HOUR of CODE Challenge" width="73" /></a>
+	        <a href="https://www.eff.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Electronic Frontier Foundation (EFF)" border="0" height="73" src="./assets/images/icons/eff.png" style="margin: 0 2px" title="Electronic Frontier Foundation (EFF)" width="73" /></a>
+          <a href="https://defcongroups.org/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="DEF CON Groups" border="0" height="80" src="./assets/images/icons/defcon-groups.png" style="margin: 0 2px" title="DEF CON Groups" width="80" /></a>
+          <a href="https://www.meetup.com/refresh-baton-rouge/?utm_source=defcon225.org&utm_medium=Website%20Footer&utm_campaign=Featured%20Logo" target="_blank"><img alt="Refresh Baton Rouge" border="0" height="80" src="./assets/images/icons/refresh-br.png" style="margin: 0 2px" title="Refresh Baton Rouge" width="75" /></a>
         </div>
 
         <div class="col-md-3">
@@ -186,13 +191,10 @@ Talk to us: dc225@sigaint.org
               <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
             </a>
             <br /><br />
-            <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://dc225.github.io" property="cc:attributionName" rel="cc:attributionURL">DC225</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://defcon225.org" rel="dct:source">defcon225.org</a>
+            <div id="copyright">
+            Website by DC225 is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://defcon225.org" rel="dct:source">defcon225.org</a>
+            </div>
           </p>
-        </div>
-</div>
-
-        <div class="col-xs-12">
-          &nbsp;
         </div>
 
           <div class="col-xs-12">
@@ -202,13 +204,21 @@ Talk to us: dc225@sigaint.org
               </p>
             </div>
           </div>
+      </div>
+    </div>
+    <div class="hidden-xs hidden-sm col-md-1 side right">
+      &nbsp;
     </div>
   </div>
+</div>
+
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="/assets/js/blog.js"></script>
-    <script src="/assets/js/stats.js"></script>
+    <script src="https://github.com/niklasvh/html2canvas/releases/download/0.4.1/html2canvas.js"></script>
+    <script src="./assets/js/glitch.js"></script>
+    <script src="./assets/js/blog.js"></script>
+    <script src="./assets/js/stats.js"></script>
 
   </body>
 </html>

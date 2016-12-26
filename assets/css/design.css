@@ -1,46 +1,51 @@
 body {
-  background-color: #ddd;
-}
-.header-logo {
-  background-color: #FFF;
-  /*background-image: url("../images/header-logo.png");
-  background-repeat: no-repeat;
-  background-size: cover;*/
-  min-height: 125px;
-  max-height: 125px;
-  height: 125px;
-}
-#logo {
-    height: 100%;
-    margin: 0px 0 3px -14px;
+  background-color: #333;
 }
 .header {
   background-image: url("../images/header.png");
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 205px;
-  max-height: 205px;
-  height: 205px;
+  min-height: 300px;
+  max-height: 300px;
+  height: 300px;
   position: relative;
+  margin-top: 3px;
+  margin-bottom: 7px;
+}
+.logo {
+  background-color: #000;
+  border-bottom: 3px #ff0000 solid;
 }
 .header-nav {
-  background-color: #FFF;
+  background-color: #fff;
 }
-.content {
-  background-color: #FFF;
+.header-nav a {
   color: #000;
 }
-.footer {
-  background-image: url("../images/footer.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 127px;
-  max-height: 127px;
-  height: 127px;
+.header-nav .active a {
+  background-color: #000 !important;
+  color: #fff !important;
 }
 .socialmedia {
-  margin-top: 8px;
+  margin-top: 6px;
 }
-.socialmedia a {
-  color: #000;
+.content {
+  background-color: #000;
+  color: #fff;
+}
+.footer {
+  margin-top: 4px;
+  border-top: 3px #ff0000 solid;
+  background-color: #000;
+  color: #fff;
+}
+.side .right {
+  background-image: url("../images/side-left.png");
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+.side .right {
+  background-image: url("../images/side-right.png");
+  background-size: cover;
+  background-repeat: repeat-y;
 }

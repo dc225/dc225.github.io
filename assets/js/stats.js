@@ -60,8 +60,4 @@
       ]);
   });
 
-
-
-  $('head').append('<link rel="stylesheet" type="text/css" href="https://loktar00.github.io/JQuery-Snowfall/styles.css">');
-  $.getScript("https://loktar00.github.io/JQuery-Snowfall/snowfall.jquery.min.js", function() { $(".header").snowfall({round : true, minSize: 5, maxSize:8}); });
 }(jQuery));
