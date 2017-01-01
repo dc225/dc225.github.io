@@ -11,13 +11,13 @@
 			  , h
 			  , offset
 			  , glitchInterval;
-			
+
 			img.src = '/assets/images/logo-white.png';
 			img.onload = function() {
 			  init();
 				window.onresize = init;
 			};
-			
+
 			var init = function() {
 				clearInterval(glitchInterval);
 				canvas.width = w = 356;
@@ -29,13 +29,13 @@
 					setTimeout(glitchImg, randInt(250, 1000));
 				}, 500);
 			};
-			
+
 			var clear = function() {
 				context.rect(0, 0, w, h);
 				context.fillStyle = 'black';
 				context.fill();
 			};
-			    
+
 			var glitchImg = function() {
 				for (var i = 0; i < randInt(1, 13); i++) {
 					var x = Math.random() * w;
@@ -46,12 +46,12 @@
 					context.drawImage(canvas, spliceWidth, y, x, spliceHeight, 0, y, x, spliceHeight);
 				}
 			};
-			
+
 			var randInt = function(a, b) {
 				return ~~(Math.random() * (b - a) + a);
 			};
-      
-      
+
+
 function distortCanvas(canvas, delay) {
     var ctx = canvas.getContext('2d');
     var originalImageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
@@ -60,7 +60,7 @@ function distortCanvas(canvas, delay) {
         ctx.putImageData(imageData, 0, 0);
     }
     delay = delay || 40;
-    
+
     var duration = 0;
     var state = 'startrest';
     setInterval(function() {
@@ -69,7 +69,7 @@ function distortCanvas(canvas, delay) {
                 if (duration > 0) {
                     duration -= delay;
                     var parameters = { amount: 1, seed: Math.round(Math.random()*100), iterations: 5, quality: 30 };
-                    glitch(imageData, parameters, drawImageData);        
+                    glitch(imageData, parameters, drawImageData);
                 } else {
                     state = 'startrest';
                 }
@@ -104,8 +104,8 @@ function distortNode(node) {
         }
     });
 
-    
+
 }
 
-distortNode(document.getElementById('copyright'));
+distortNode(document.getElementById('copy'));
 }(jQuery));
