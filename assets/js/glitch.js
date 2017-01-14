@@ -12,7 +12,7 @@
 			  , offset
 			  , glitchInterval;
 
-			img.src = '/assets/images/logo-white.png';
+			img.src = 'https://dc225.github.io/assets/images/logo-white.png';
 			img.onload = function() {
 			  init();
 				window.onresize = init;

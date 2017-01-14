@@ -4,16 +4,26 @@ body {
 #github {
   position: absolute; top: 0; right: 0; border: 0;
 }
-.header {
+.header-bg {
   background-image: url("../images/mrdc225.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+}
+.header {
+  background-color: #000;
   min-height: 300px;
   max-height: 300px;
   height: 300px;
   position: relative;
   margin-top: 3px;
   margin-bottom: 7px;
+  overflow: hidden;
+}
+.header-quote {
+  background-color: #000;
+  color: #fff;
+  border: 0px !important;
+  font-size: 200%;
 }
 .logo {
   background-color: #000;

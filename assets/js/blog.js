@@ -3,7 +3,7 @@
 
   $.ajax({
     type: "GET",
-    url: "/feed.xml",
+    url: "http://defcon225.org/feed.xml",
     dataType: "xml",
     success: function( xml ) {
       var x = 0;
