@@ -81,10 +81,10 @@
         
       $("body").prepend('<div id="windowbar" class="clearfix"></div>');
       
-      $("#content-thing").prepend('<div class="clearfix windowTitle"><div class="strong">' + document.title + '</div> <div class="pull-right windowIcons">' +
+      $("#content-thing").prepend('<div class="clearfix windowTitle"><div class="pull-right windowIcons">' +
         '<a href="javascript:dcgos.windowMinimize(\'website\');"><i class="fa fa-window-minimize" aria-hidden="true"></i></a> ' +
         '<a href="javascript:dcgos.windowRestore(\'website\');"><i class="fa fa-window-restore" aria-hidden="true"></i></a>' +
-        '</div></div>');
+        '</div><div class="strong">' + document.title + '</div></div>');
         
         $("#windowbar").prepend('<div class="minimizedTitle" id="minimizedTitle-website"><div class="pull-right windowIcons">' +
         '<a href="javascript:dcgos.windowRestore(\'website\');"><i class="fa fa-window-restore" aria-hidden="true"></i></a> ' +
