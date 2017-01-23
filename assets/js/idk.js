@@ -47,7 +47,7 @@
       dcgos.windowStateChange('restore');
       
       $(dcgos.windows[windowName]).resizable({
-          alsoResize: 'canvas,img',
+          alsoResize: '',
           disabled: false
         });
         
