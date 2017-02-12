@@ -14,7 +14,7 @@
 			  offset,
 			  glitchInterval;
 
-			img.src = 'https://dc225.github.io/assets/images/logo-white.png';
+			img.src = './assets/images/header.jpg';
 			img.onload = function() {
 			  initGlitch();
 				window.onresize = initGlitch;
@@ -22,12 +22,12 @@
 
 			var initGlitch = function() {
 				clearInterval(glitchInterval);
-				canvas.width = w = 356;
+				canvas.width = w = $("#canvas").parent().parent().width();
 				offset = w * '.1';
-				canvas.height = h = 150;
+				canvas.height = h = ( $("#canvas").parent().parent().width() / 4.746 );
 				glitchInterval = setInterval(function() {
 					clear();
-					context.drawImage(img, 0, 0, img.width, 175, 0, 0, w, h);
+					context.drawImage(img, 0, 0, img.width, 800, 0, 0, w, h);
 					setTimeout(glitchImg, randInt(250, 1000));
 				}, 500);
 			};
