@@ -46,6 +46,9 @@ body {
   background-color: #000;
   color: #fff;
 }
+.content p {
+  font-size: 120%;
+}
 .footer {
   margin-top: 4px;
   border-top: 3px #ff0000 solid;
