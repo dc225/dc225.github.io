@@ -3,7 +3,7 @@ title: "Baton Rouge Mini Maker Faire 2017 Recap"
 layout: blog_article
 author: dc225
 version: 1.1.1
-description: Baton Rouge Mini Maker Faire 2017 was Saturday, October 21, 2017. Here are some highlights!
+description: Baton Rouge Mini Maker Faire 2017 was Saturday, October 21, 2017. Here are some of our highlights!
 ---
 
 DEF CON 225 was a registered maker at the 4th annual [Baton Rouge Mini Makerfaire](https://batonrouge.makerfaire.com/?utm_source=defcon225.org&utm_medium=Blog%20Post&utm_campaign=Shoutout), which was Saturday, October 21, 2017.
