@@ -11,9 +11,9 @@ DEF CON 225 was a registered maker at the 4th annual [Baton Rouge Mini Makerfair
 <a href="/assets/photos/brmakerfaire-2017-1.jpg">
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="/assets/photos/brmakerfaire-2017-1.jpg" class="lazy img-responsive img-thumbnail" alt="Baton Rouge, Makerfaire, DEF CON 225, Lock picking, phone phreak" border="0" /></a>
 
-We showed off a few projects and things (previous DEF CON badges, a payphone turned VOIP, a roomba robot), shared knowledge, and networked with many people. Our biggest hit was teaching all ages about lock picking.. and demonstrating how easy and insecure most locks really are.
+DC225 showed off a few projects and things (previous DEF CON badges, a payphone turned VOIP, a roomba robot), shared knowledge, and networked with many people. The biggest hit was teaching all ages about lock picking.. and demonstrating how easy and insecure most locks really are.
 
-We tried to incorporate TOOOL ([The Open Organisation Of Lockpickers](https://toool.us?utm_source=defcon225.org&utm_medium=Blog%20Post&utm_campaign=Shoutout))'s [Rules of Ethics](https://toool.us/bylaws.html?utm_source=defcon225.org&utm_medium=Blog%20Post&utm_campaign=Shoutout) into our teachings where ever possible.
+There was mention of TOOOL ([The Open Organisation Of Lockpickers](https://toool.us?utm_source=defcon225.org&utm_medium=Blog%20Post&utm_campaign=Shoutout))'s [Rules of Ethics](https://toool.us/bylaws.html?utm_source=defcon225.org&utm_medium=Blog%20Post&utm_campaign=Shoutout) in the teachings, where ever possible.
   - Never pick or manipulate with the aim of opening any lock that does not belong to you, unless you have been granted explicit permission by the lock's rightful owner.
   - Never disseminate knowledge or tools of lockpicking to individuals whom you know or whom have reason to suspect would seek to employ such skills or equipment in a criminal manner.
 
