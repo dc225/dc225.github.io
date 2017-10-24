@@ -6,7 +6,7 @@ version: 1.1.1
 description: Baton Rouge Mini Maker Faire 2017 was Saturday, October 21, 2017. Here are some highlights!
 ---
 
-DEF CON 225 was a registered maker at the 4th annual Baton Rouge Mini Makerfaire, which was Saturday, October 21, 2017.
+DEF CON 225 was a registered maker at the 4th annual [Baton Rouge Mini Makerfaire](https://batonrouge.makerfaire.com/?utm_source=defcon225.org&utm_medium=Blog%20Post&utm_campaign=Shoutout), which was Saturday, October 21, 2017.
 
 <a href="/assets/photos/brmakerfaire-2017-1.jpg">
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="/assets/photos/brmakerfaire-2017-1.jpg" class="lazy img-responsive img-thumbnail" alt="Baton Rouge, Makerfaire, DEF CON 225, Lock picking, phone phreak" border="0" /></a>
