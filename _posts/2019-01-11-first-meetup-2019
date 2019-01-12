@@ -1,0 +1,34 @@
+---
+title: "First Meetup of 2019"
+layout: blog_article
+author: dc225
+version: 1.0.1
+---
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Event",
+  "name" : "First Meetup 2019",
+  "startDate" : "2019-01-14",
+  "location" : {
+    "@type" : "Place",
+    "name" : "East Baton Rouge Main Library",
+    "address" : {
+      "@type" : "PostalAddress",
+      "addressLocality" : "Baton Rouge",
+      "addressRegion" : "Louisiana",
+      "postalCode" : "70806",
+      "streetAddress" : "7711 Goodwood Blvd"
+    }
+  },
+  "description" : "DC225 has their first meetup for 2019",
+  "url" : "http://defcon225.org/blog/2019/first-meetup-2019.html"
+}
+</script>
+
+**DEF CON 225 (DC225)** has their first meetup scheduled for **January 14, 2016** from **6:30pm - 8:00pm**.
+
+### Location
+[East Baton Rouge Main Library](http://www.ebrpl.com/LocationsandHours/ebr.html)  
+2nd Floor - Conference Room A
