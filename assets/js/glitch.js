@@ -14,7 +14,7 @@
 			  offset,
 			  glitchInterval;
 
-			img.src = 'http://defcon225.org/assets/images/header.jpg';
+			img.src = 'https://defcon225.org/assets/images/header.jpg';
 			img.onload = function() {
 			  initGlitch();
 				window.onresize = initGlitch;
