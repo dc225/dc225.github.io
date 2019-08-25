@@ -3,7 +3,7 @@
 
 $.ajax({
   type: "GET",
-  url: "http://defcon225.org/sitemap.xml",
+  url: "https://defcon225.org/sitemap.xml",
   dataType: "xml",
   success: function( xml ) {
     xml = $(xml).find("loc");
