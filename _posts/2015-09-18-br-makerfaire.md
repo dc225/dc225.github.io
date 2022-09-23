@@ -1,5 +1,5 @@
 ---
-title: "Baton Rouge Mini Maker Faire"
+title: "Baton Rouge Mini Maker Faire Announcement"
 layout: blog_article
 author: dc225
 version: 1.0.1
