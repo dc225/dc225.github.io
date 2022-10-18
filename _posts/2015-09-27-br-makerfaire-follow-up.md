@@ -1,5 +1,5 @@
 ---
-title: "Baton Rouge Mini Maker Faire Followup!"
+title: "Baton Rouge Mini Maker Faire 2015 Recap"
 layout: blog_article
 author: dc225
 version: 1.0.1

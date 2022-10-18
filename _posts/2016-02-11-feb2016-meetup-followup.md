@@ -1,5 +1,5 @@
 ---
-title: "Feb 2016 Meetup Followup"
+title: "Feb 2016 Meetup Recap"
 layout: blog_article
 author: dc225
 version: 1.0.2
