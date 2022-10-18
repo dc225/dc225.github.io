@@ -3,7 +3,7 @@ title: "Baton Rouge Maker Faire 2022 Announcement"
 layout: blog_article
 author: dc225
 version: 1.1.1
-description: Baton Rouge Maker Faire 2022
+description: Baton Rouge Maker Faire 2022 Announcement
 ---
 
 [![Baton Rouge Maker Faire](/assets/uploads/baton-rouge-makerfaire.webp "Baton Rouge Maker Faire")](https://batonrouge.makerfaire.com/)
