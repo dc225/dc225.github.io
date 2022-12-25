@@ -58,8 +58,8 @@
       };
 
       dcgos.windowRestore = function(windowName) {
-        $(dcgos.windows[windowName] + " .windowIcons").html('<a href="javascript:dcgos.windowMinimize(\'' + windowName + '\');"><i class="fa fa-window-minimize" aria-hidden="true"></i></a> ' +
-            '<a href="javascript:dcgos.windowMaximize(\'' + windowName + '\');"><i class="fa fa-window-maximize" aria-hidden="true"></i></a>');
+        $(dcgos.windows[windowName] + " .windowIcons").html('<a href="javascript:dcgos.windowMinimize(\'' + windowName + '\');"><i class="fa-solid fa-window-minimize" aria-hidden="true"></i></a> ' +
+            '<a href="javascript:dcgos.windowMaximize(\'' + windowName + '\');"><i class="fa-solid fa-window-maximize" aria-hidden="true"></i></a>');
         
         $(dcgos.windows[windowName]).show();
         $(dcgos.windows[windowName]).attr("style", "border:1px #000 solid; background-color:#333; width: 50%; height: 300px;");
@@ -84,8 +84,8 @@
         $(dcgos.windows[windowName]).attr("style", "");
         if($(dcgos.windows[windowName]).is(":hidden")) $(dcgos.windows[windowName]).show();
         
-        $(dcgos.windows[windowName] + " .windowIcons").html('<a href="javascript:dcgos.windowMinimize(\'' + windowName + '\');"><i class="fa fa-window-minimize" aria-hidden="true"></i></a> ' +
-          '<a href="javascript:dcgos.windowRestore(\'' + windowName + '\');"><i class="fa fa-window-restore" aria-hidden="true"></i></a>');
+        $(dcgos.windows[windowName] + " .windowIcons").html('<a href="javascript:dcgos.windowMinimize(\'' + windowName + '\');"><i class="fa-solid fa-window-minimize" aria-hidden="true"></i></a> ' +
+          '<a href="javascript:dcgos.windowRestore(\'' + windowName + '\');"><i class="fa-solid fa-window-restore" aria-hidden="true"></i></a>');
         
         
       };
@@ -104,13 +104,13 @@
         $("body").prepend('<div id="windowbar" class="clearfix"></div>');
         
         $("#content-thing").prepend('<div class="clearfix windowTitle"><div class="pull-right windowIcons">' +
-          '<a href="javascript:dcgos.windowMinimize(\'website\');"><i class="fa fa-window-minimize" aria-hidden="true"></i></a> ' +
-          '<a href="javascript:dcgos.windowRestore(\'website\');"><i class="fa fa-window-restore" aria-hidden="true"></i></a>' +
+          '<a href="javascript:dcgos.windowMinimize(\'website\');"><i class="fa-solid fa-window-minimize" aria-hidden="true"></i></a> ' +
+          '<a href="javascript:dcgos.windowRestore(\'website\');"><i class="fa-solid fa-window-restore" aria-hidden="true"></i></a>' +
           '</div><div class="strong">' + document.title + '</div></div>');
           
           $("#windowbar").prepend('<div class="minimizedTitle" id="minimizedTitle-website"><div class="pull-right windowIcons">' +
-          '<a href="javascript:dcgos.windowRestore(\'website\');"><i class="fa fa-window-restore" aria-hidden="true"></i></a> ' +
-          '<a href="javascript:dcgos.windowMaximize(\'website\');"><i class="fa fa-window-maximize" aria-hidden="true"></i></a>' +
+          '<a href="javascript:dcgos.windowRestore(\'website\');"><i class="fa-solid fa-window-restore" aria-hidden="true"></i></a> ' +
+          '<a href="javascript:dcgos.windowMaximize(\'website\');"><i class="fa-solid fa-window-maximize" aria-hidden="true"></i></a>' +
           '</div><div class="strong">' + document.title + '</div></div>');
           
           $(".minimizedTitle").hide();
