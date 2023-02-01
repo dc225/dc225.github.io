@@ -5,9 +5,6 @@
 | |__| | |____ / /_ / /_ ___) |
 |_____/ \_____|____|____|____/
 
-/* POC */
-Twitter: https://twitter.com/ynots0ups
-
 /* US */
 Twitter: https://twitter.com/defcon225
 Facebook: https://www.facebook.com/DC225
