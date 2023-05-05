@@ -2,7 +2,10 @@ body {
   background-color: #333;
 }
 #github {
-  position: absolute; top: 0; right: 0; border: 0;
+  position: absolute;
+  top: 0;
+  right: -15px;
+  border: 0;
 }
 .header-bg {
   background-image: url("../images/header.jpg");
