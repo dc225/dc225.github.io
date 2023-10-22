@@ -50,7 +50,7 @@
         
         else {
           if(dcgos.ram.fullScreen) $("#windowbar").show();
-          if(dcgos.ram.fullScreen) $("body").attr("style", "background-color:#FFF;background-image:url('/assets/uploads/hacktheplanet.webp');background-repeat: no-repeat;background-attachment: fixed;background-position: center; ");
+          if(dcgos.ram.fullScreen) $("body").attr("style", "background-color:#000;background-image:url('/assets/uploads/hacktheplanet.webp');background-repeat: no-repeat;background-attachment: fixed;background-position: center;");
           
           if(dcgos.ram.fullScreen) $("#windowbar").show();
           if(dcgos.ram.fullScreen) dcgos.ram.fullScreen = false;
