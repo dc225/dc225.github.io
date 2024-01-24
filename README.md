@@ -1,3 +1,9 @@
-# DEF CON 225
+ _____   _____ ___  ___  _____
+|  __ \ / ____|__ \|__ \| ____|
+| |  | | |       ) |  ) | |__
+| |  | | |      / /  / /|___ \
+| |__| | |____ / /_ / /_ ___) |
+|_____/ \_____|____|____|____/
 
-This is the GitHub repository for the [**DEF CON 225**](https://defcon225.org/) group's website.
+
+This is the GitHub repository for the [**DEF CON 225**](https://defcon225.org/) website.
