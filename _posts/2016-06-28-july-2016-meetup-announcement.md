@@ -21,7 +21,7 @@ version: 1.0.1
     }
   },
   "description" : "DC225 announces their July 2016 Meetup",
-  "url" : "http://defcon225.org/blog/2016/july-2016-meetup-announcement.html"
+  "url" : "https://defcon225.org/blog/2016/july-2016-meetup-announcement.html"
 }
 </script>
 

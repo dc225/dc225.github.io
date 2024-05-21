@@ -21,4 +21,4 @@ It actually blamed MBAM for taking up ~400 MB of RAM.
 
 ```Windows successfully diagnosed a low virtual memory condition. The following programs consumed the most virtual memory: mbamservice.exe (2724) consumed 472268800 bytes, firefox.exe (9104) consumed 391847936 bytes, and MsMpEng.exe (2928) consumed 174694400 bytes.```
 
-![alt text](http://i.imgur.com/14MPvtM.png "Fork Bomb")
+![alt text](https://i.imgur.com/14MPvtM.png "Fork Bomb")

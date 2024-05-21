@@ -5,7 +5,7 @@ author: dc225
 version: 1.0.1
 ---
 
-Members from [DC225](http://defcon225.org), a local [DEF CON Group](https://defcongroups.org) for Baton Rouge, Louisiana, will be attending and presenting at the [2016 Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com/).
+Members from [DC225](https://defcon225.org), a local [DEF CON Group](https://defcongroups.org) for Baton Rouge, Louisiana, will be attending and presenting at the [2016 Baton Rouge Mini Maker Faire](https://www.makerfairebatonrouge.com/).
 
 The Maker Faire will be Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library from 10 am - 6 pm.
 

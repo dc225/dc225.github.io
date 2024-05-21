@@ -8,7 +8,7 @@ description: 2017 - Happy New Year!
 
 As we welcome in the new year, here are some important dates to mark on your calendars.
 
-  - [BSidesNOLA  2017](http://www.securitybsides.com/w/page/113990746/BSidesNOLA)
+  - [BSidesNOLA  2017](https://www.securitybsides.com/w/page/113990746/BSidesNOLA)
     - April 1, 2017
     - Hilton Garden Inn New Orleans Convention Center
   - [NolaCon 2017](https://nolacon.com/)

@@ -5,7 +5,7 @@ author: dc225
 version: 1.0.1
 ---
 
-With [BSidesNOLA 2016](http://www.securitybsides.com/w/page/104051753/BSidesNOLA%202016) only a month and a half away--
+With [BSidesNOLA 2016](https://www.securitybsides.com/w/page/104051753/BSidesNOLA%202016) only a month and a half away--
 scheduled for April 16, 2016, you may want to book your room soon to avoid last minute reservation fees!
 
 [NolaCon 2016](https://nolacon.com) is scheduled for May 20-22, 2016, and **DC225** is proud to announce that two of our members
