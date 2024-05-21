@@ -5,7 +5,7 @@ author: dc225
 version: 1.0.1
 ---
 
-As the [2016 Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com/) approaches, [DC225](http://defcon225.org) members are finalizing their project demonstrations.
+As the [2016 Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com/) approaches, [DC225](https://defcon225.org) members are finalizing their project demonstrations.
 
 Here are some featured photo updates of these projects you will be able to see at the upcoming Maker Faire.
 

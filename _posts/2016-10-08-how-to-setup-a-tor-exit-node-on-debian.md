@@ -5,7 +5,7 @@ author: dc225
 version: 1.0.1
 ---
 
-<img src="http://i.imgur.com/4FCZI9l.png" width="25%"> & <img src="http://i.imgur.com/1uQ4nLQ.jpg" width="25%">
+<img src="https://i.imgur.com/4FCZI9l.png" width="25%"> & <img src="https://i.imgur.com/1uQ4nLQ.jpg" width="25%">
 <h1>How to setup a tor exit node on Debian and create a responsible torrc config file</h1>
 
 <h2>Log into box as root and do the following to setup tor</h2>
@@ -25,7 +25,7 @@ We highly encourage using an advanced or a more modified version of the torrc co
 <h2>Where to host a tor exit node</h2>
 We're using DigitalOcean for this. A $10/m droplet using Debian 8 x64, 1 GB Memory / 30 GB Disk / 2 TB transfer and hosted at the DO Frankfurt, Germany location. DO is sorta weird when it comes to bandwidth usage. I submitted a support ticket asking about how to monitor overall BW usage at the DO backend level and they replied with basically "you cant and we wont charge you for exceeding the 2TB bw limit"..hrm. I certainly used way over 2TB of bw in October but my bill was only $10. So, ya, that's really good. A lot of others recommend using OVH as well for tor exit nodes. If you want to consider all of the best hosting options, <a href="https://metrics.torproject.org/bubbles.html#as-exits-only" target="_blank">here is a neat list of current Tor Exit Nodes listed by ISP</a> and <a href="https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs" target="_blank">here is a list of good/bad Tor hosting providers</a>.
 
-<img src="http://i.imgur.com/2cZZC4C.png" width="75%">
+<img src="https://i.imgur.com/2cZZC4C.png" width="75%">
 
 <h2>What to do if you get an abuse complaint</h2>
 If you run the default and stock ExitPolicy while running an exit node, you most likely get abuse complaints within ~72 hours.
@@ -77,6 +77,6 @@ Tor Null<br>
 Tor subreddit<br>
 <a href="https://www.reddit.com/r/tor" target="_blank">/r/tor</a>
 
-Donate Bitcoin to keep our <a href="http://defcon225.org" target="_blank">DC225</a> tor exit node alive and maintaned : 1Knbz4isVBZiCQxGHnYii26HkXcGwJTeYP<br> <3
+Donate Bitcoin to keep our <a href="https://defcon225.org" target="_blank">DC225</a> tor exit node alive and maintaned : 1Knbz4isVBZiCQxGHnYii26HkXcGwJTeYP<br> <3
 
 <img src="http://i.imgur.com/flndXR0.png" width="50%">

@@ -6,7 +6,7 @@ version: 1.1.1
 description: The annual Baton Rouge Mini Maker Faire was this past Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library.
 ---
 
-The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) was this past Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library.
+The annual [Baton Rouge Mini Maker Faire](https://www.makerfairebatonrouge.com) was this past Saturday, October 8, 2016, at the East Baton Rouge Parish Main Library.
 
 <a href="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/baton-rouge-mini-maker-faire-2016/table.jpg">
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://s3-us-west-2.amazonaws.com/63306e6675736564/uplds/baton-rouge-mini-maker-faire-2016/table.jpg" class="lazy img-thumbnail" border="0" />
@@ -18,7 +18,7 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
   - An application that mutilates images (and sometimes non-images) in predictable (and sometimes unpredictable) ways
     - [A Vernacular of file formats](https://dl.dropboxusercontent.com/u/9054743/hifi%20Rosa%20Menkman%20-%20A%20Vernacular%20of%20File%20Formats.pdf)
   - Lock picking 101
-    - [The Open Organization Of Lockpickers](http://toool.us/)
+    - [The Open Organization Of Lockpickers](https://toool.us/)
   - Great informational flyers provided by the [Electronic Frontier Foundation](https://www.eff.org).
 
 ### Lock Picking Resources
@@ -29,7 +29,7 @@ The annual [Baton Rouge Mini Maker Faire](http://www.makerfairebatonrouge.com) w
 > <https://www.hackerstickers.com/product/hardware-lockpick-17pcset/>
 
 > If you want a fantastic set that transforms your picking approach from a hobby to an art at the expense of a pretty decent learning curve, then I'd recommend the Sparrows Tuxedo set. Slim, sleek, and transforms your picking mindset, but requires tuning and adjustments to your picking style.
-> <http://www.sparrowslockpicks.com/product_p/tux1.htm>
+> <https://www.sparrowslockpicks.com/product_p/tux1.htm>
 
 
 > As far as locks go, I mostly practice on padlocks, and I just pick up most of mine at Walmart, Lowe's, Home Depot, or from family and friends that don't use their padlocks. If you're looking for actual practice locks though, I'd throw in my recommendation for Sparrows again.

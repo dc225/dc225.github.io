@@ -22,7 +22,7 @@ description: DC225 has a meetup scheduled for Nov 10 2016
     }
   },
   "description" : "DC225 Nov 2016 Meetup",
-  "url" : "http://defcon225.org/blog/2016/nov-2016-meetup-announcement.html"
+  "url" : "https://defcon225.org/blog/2016/nov-2016-meetup-announcement.html"
 }
 </script>
 
