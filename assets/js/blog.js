@@ -9,7 +9,12 @@
       var x = 0;
       $(xml).find("entry").each(function() {
         if( x < 5 ) {
-          $("#blog_feed").append('<a href="' + $(this).find("link").attr("href") + '" class="list-group-item"><h4>' + $(this).find("title").text() + '</h4></a>');
+          var datetime = moment($(this).find("published").text()).format("dddd, MMMM Do, YYYY");
+
+          $("#blog_feed").append(`<a href="${$(this).find("link").attr("href")}" class="list-group-item">
+            <h4>${$(this).find("title").text()}</h4>
+            <small><i class="fa-solid fa-fw fa-calendar" aria-hidden="true"></i> <em>${datetime}</em></small>
+          </a>`);
           x++;
         }
         else {
@@ -28,8 +33,13 @@
       $(xml).find("item").each(function() {
         if( x < 5 ) {
           var post = new DOMParser().parseFromString($(xml).find("item description")[x].innerHTML, "text/html").body.textContent;
+          var datetime = new DOMParser().parseFromString($(xml).find("item pubDate")[x].innerHTML, "text/html").body.textContent;
+            datetime = moment(datetime).format("dddd, MMMM Do, YYYY [at] h:mm:ss a");
 
-          $("#social_media").append('<a href="' + $(xml).find("item link")[x].innerHTML + '" class="list-group-item"><h4>' + post + '</h4></a>');
+          $("#social_media").append(`<a href="${$(xml).find("item link")[x].innerHTML}" class="list-group-item">
+            <h4>${post}</h4>
+            <small><i class="fa-solid fa-fw fa-calendar" aria-hidden="true"></i> <em>${datetime}</em></small>
+          </a>`);
           x++;
         }
         else {
