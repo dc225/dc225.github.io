@@ -19,4 +19,24 @@
     }
   });
 
+  $.ajax({
+		type: "GET",
+		url: "https://defcon.social/@dc225.rss",
+		dataType: "xml",
+		success: function(xml) {
+      var x = 0;
+      $(xml).find("item").each(function() {
+        if( x < 5 ) {
+          var post = new DOMParser().parseFromString($(xml).find("item description")[x].innerHTML, "text/html").body.textContent;
+
+          $("#social_media").append('<a href="' + $(xml).find("item link")[x].innerHTML + '" class="list-group-item"><h4>' + post + '</h4></a>');
+          x++;
+        }
+        else {
+          return false;
+        }
+      });
+		}
+	});
+
 }(jQuery));
