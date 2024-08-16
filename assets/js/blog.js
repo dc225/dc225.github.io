@@ -37,7 +37,7 @@
             datetime = moment(datetime).format("dddd, MMMM Do, YYYY [at] h:mm:ss a");
 
           $("#social_media").append(`<a href="${$(xml).find("item link")[x].innerHTML}" class="list-group-item">
-            <h4>${post}</h4>
+            <div>${post}</div>
             <small><i class="fa-solid fa-fw fa-calendar" aria-hidden="true"></i> <em>${datetime}</em></small>
           </a>`);
           x++;
