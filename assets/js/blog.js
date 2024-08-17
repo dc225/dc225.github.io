@@ -38,7 +38,7 @@
 
           $("#social_media").append(`<div class="list-group-item">
               <div style="color:#000">${post}</div>
-              <div style="border-top:1px #eee dashed;margin-top:10px" class="text-right">
+              <div style="border-top:1px #eee dashed;margin-top:10px">
                 <a href="${$(xml).find("item link")[x].innerHTML}" class="btn-xs">
                   <small><i class="fa-solid fa-fw fa-calendar" aria-hidden="true"></i> <em>${datetime}</em></small>
                 </a>
