@@ -36,10 +36,15 @@
           var datetime = new DOMParser().parseFromString($(xml).find("item pubDate")[x].innerHTML, "text/html").body.textContent;
             datetime = moment(datetime).format("dddd, MMMM Do, YYYY [at] h:mm:ss a");
 
-          $("#social_media").append(`<a href="${$(xml).find("item link")[x].innerHTML}" class="list-group-item">
-            <div>${post}</div>
-            <small><i class="fa-solid fa-fw fa-calendar" aria-hidden="true"></i> <em>${datetime}</em></small>
-          </a>`);
+          $("#social_media").append(`<div class="list-group-item">
+              <div style="color:#000">${post}</div>
+              <div style="border-top:1px #eee dashed;margin-top:10px" class="text-right">
+                <a href="${$(xml).find("item link")[x].innerHTML}" class="btn-xs">
+                  <small><i class="fa-solid fa-fw fa-calendar" aria-hidden="true"></i> <em>${datetime}</em></small>
+                </a>
+              </div>
+            </div>
+          `);
           x++;
         }
         else {
