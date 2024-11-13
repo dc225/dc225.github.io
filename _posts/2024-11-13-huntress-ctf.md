@@ -12,3 +12,15 @@ We ended up ranking 69th out of 3,3346 teams.
 
 Big props to dllheLL and beefcarver for putttin' in some work as well as everyone else who participated!
 
+Participated:
+
+dllheLL
+beefcarver
+sloptit
+Matrix
+major
+zetta
+forcedlogic
+c0nfused
+wald0
+t3kn0m4nc3r
