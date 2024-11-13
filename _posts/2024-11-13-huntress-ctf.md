@@ -14,13 +14,13 @@ Big props to dllheLL and beefcarver for putttin' in some work as well as everyon
 
 Participated:
 
-dllheLL
-beefcarver
-sloptit
-Matrix
-major
-zetta
-forcedlogic
-c0nfused
-wald0
-t3kn0m4nc3r
+- dllheLL
+- beefcarver
+- sloptit
+- c0nfused
+  Matrix
+- forcedlogic
+- t3kn0m4nc3r
+- wald0
+- zetta
+- major
