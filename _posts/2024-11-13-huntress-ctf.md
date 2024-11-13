@@ -1,5 +1,5 @@
 ---
-title: "DC225 Lands 69th Place On Huntress CTF 2025"
+title: "DC225 Lands 69th Place On Huntress CTF 2024"
 layout: blog_article
 author: dc225
 version: 1.1.1
