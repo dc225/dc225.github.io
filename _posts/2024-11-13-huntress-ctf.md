@@ -18,7 +18,7 @@ Participated:
 - beefcarver
 - sloptit
 - c0nfused
-  Matrix
+- Matrix
 - forcedlogic
 - t3kn0m4nc3r
 - wald0
