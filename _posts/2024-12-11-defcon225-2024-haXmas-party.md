@@ -1,5 +1,5 @@
 ---
-title: "Defcon225 HaXmas 2025"
+title: "Defcon225 HaXmas 2024"
 layout: blog_article
 author: dc225
 version: 1.1.1
