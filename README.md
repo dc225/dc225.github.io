@@ -1,3 +1,3 @@
-```# DEFCON 225```
+```# DC225```
 
-This is the GitHub repository for the [**DEFCON 225**](https://defcon225.org/) website.
+This is the GitHub repository for the [**DC225**](https://defcon225.org/) website.
