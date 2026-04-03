@@ -6,7 +6,7 @@ version: 1.1.1
 description: "DC225 April Meetup"
 ---
 
-📅 4.3.2026<br>
+📅 4.18.2026<br>
 ⌚ 3:30 PM - 5pm <br>
 📍 7711 Goodwood Blvd, Baton Rouge, LA 70806
 
